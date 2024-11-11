@@ -18,4 +18,5 @@ If you want to learn how to build this, follow my tutorial here:
 
 Linkedin Clone - React and Firebase Full Tutorial.
 
-Check the playlist for the videos: https://lnkd.in/d6JvCm-t
+Check the playlist for the videos: https://lnkd.in/d6JvCm-t"# ProsectPulse_Application" 
+"# ProsectPulse_Application" 
